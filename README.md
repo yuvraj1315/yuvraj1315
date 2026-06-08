@@ -88,13 +88,7 @@ Computer vision-based parking slot detection system using image processing techn
 
 ✅ AWS Cloud Practitioner Essentials
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvraj1315&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj1315&layout=compact)
 
 ---
 
